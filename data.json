@@ -1,0 +1,2123 @@
+[
+    {
+        "cardType": "carousel",
+        "layoutAlignmentType": "VERTICAL",
+        "data": {
+            "type": "carousel",
+            "subtype": "topCarousel",
+            "data": {
+                "cards": [
+                    {
+                        "type": "carouselElement",
+                        "subtype": "image",
+                        "data": {
+                            "bannerId": 635529,
+                            "creativeId": "rng/md/carousel/production/pneknawbadtvceqzwiep",
+                            "type": "restaurantCollectionV2",
+                            "link": "49301",
+                            "cityId": 0,
+                            "restaurantUuid": "",
+                            "restaurantParentId": "0",
+                            "thirdPartyVendor": "",
+                            "thirdPartyAddress": false
+                        }
+                    },
+                    {
+                        "type": "carouselElement",
+                        "subtype": "image",
+                        "data": {
+                            "bannerId": 619141,
+                            "creativeId": "rng/md/carousel/production/zpkkdkmvlj5cuvqbc50t",
+                            "type": "restaurantCollectionV2",
+                            "link": "56413",
+                            "cityId": 0,
+                            "restaurantUuid": "",
+                            "restaurantParentId": "0",
+                            "thirdPartyVendor": "",
+                            "thirdPartyAddress": false
+                        }
+                    },
+                    {
+                        "type": "carouselElement",
+                        "subtype": "image",
+                        "data": {
+                            "bannerId": 619143,
+                            "creativeId": "rng/md/carousel/production/lzkjv3sxwwjkzg0vxpvt",
+                            "type": "restaurantCollectionV2",
+                            "link": "56422",
+                            "cityId": 0,
+                            "restaurantUuid": "",
+                            "restaurantParentId": "0",
+                            "thirdPartyVendor": "",
+                            "thirdPartyAddress": false
+                        }
+                    },
+                    {
+                        "type": "carouselElement",
+                        "subtype": "image",
+                        "data": {
+                            "bannerId": 619142,
+                            "creativeId": "rng/md/carousel/production/tgnvusbs3fnzz7xupeno",
+                            "type": "restaurantCollectionV2",
+                            "link": "56417",
+                            "cityId": 0,
+                            "restaurantUuid": "",
+                            "restaurantParentId": "0",
+                            "thirdPartyVendor": "",
+                            "thirdPartyAddress": false
+                        }
+                    },
+                    {
+                        "type": "carouselElement",
+                        "subtype": "image",
+                        "data": {
+                            "bannerId": 619145,
+                            "creativeId": "rng/md/carousel/production/nhubtkw7dukg3ukcmpam",
+                            "type": "restaurantCollectionV2",
+                            "link": "56414",
+                            "cityId": 0,
+                            "restaurantUuid": "",
+                            "restaurantParentId": "0",
+                            "thirdPartyVendor": "",
+                            "thirdPartyAddress": false
+                        }
+                    },
+                    {
+                        "type": "carouselElement",
+                        "subtype": "image",
+                        "data": {
+                            "bannerId": 607193,
+                            "creativeId": "rng/md/carousel/production/s5ug2key6e2sptaxku5v",
+                            "type": "restaurantCollectionV2",
+                            "link": "56410",
+                            "cityId": 0,
+                            "restaurantUuid": "",
+                            "restaurantParentId": "0",
+                            "thirdPartyVendor": "",
+                            "thirdPartyAddress": false
+                        }
+                    },
+                    {
+                        "type": "carouselElement",
+                        "subtype": "image",
+                        "data": {
+                            "bannerId": 607195,
+                            "creativeId": "rng/md/carousel/production/ifi2lbzxeu1hvsqrsip3",
+                            "type": "restaurantCollectionV2",
+                            "link": "56421",
+                            "cityId": 0,
+                            "restaurantUuid": "",
+                            "restaurantParentId": "0",
+                            "thirdPartyVendor": "",
+                            "thirdPartyAddress": false
+                        }
+                    }
+                ]
+            }
+        },
+        "parentWidget": false
+    },
+    {
+        "cardType": "carousel",
+        "layoutAlignmentType": "VERTICAL",
+        "data": {
+            "type": "carousel",
+            "subtype": "openFilter",
+            "data": {
+                "cards": [
+                    {
+                        "type": "carouselElement",
+                        "subtype": "image",
+                        "data": {
+                            "bannerId": 181684,
+                            "creativeId": "bkhjfipzydkoqncrxpyi",
+                            "type": "restaurantCollectionV2",
+                            "link": "11718",
+                            "cityId": 0,
+                            "restaurantUuid": "",
+                            "restaurantParentId": "0",
+                            "title": "Offers Near You",
+                            "subtitle": "0 OPTIONS",
+                            "restaurants": [],
+                            "totalCount": 0,
+                            "dwebOpenFilterTitle": "Offers Near You",
+                            "dwebOpenFilterBgColor": "#FF0000",
+                            "dwebOpenFilterSelectIcon": "eyperwsfhaoa5vktjtu4",
+                            "dwebOpenFilterDeselectIcon": "urw8usdf4mk9aywd59gq"
+                        }
+                    },
+                    {
+                        "type": "carouselElement",
+                        "subtype": "image",
+                        "data": {
+                            "bannerId": 273242,
+                            "creativeId": "rng/md/carousel/production/vquntqrzvkb08pe59cec",
+                            "type": "restaurantCollectionV2",
+                            "link": "46147",
+                            "cityId": 0,
+                            "restaurantUuid": "",
+                            "restaurantParentId": "0",
+                            "title": "Top Picks",
+                            "subtitle": "0 OPTIONS",
+                            "restaurants": [],
+                            "totalCount": 0,
+                            "dwebOpenFilterTitle": "Top Picks",
+                            "dwebOpenFilterBgColor": "#FF0000",
+                            "dwebOpenFilterSelectIcon": "rng/md/carousel/production/vt13uzhjrg5r49kh9oru",
+                            "dwebOpenFilterDeselectIcon": "rng/md/carousel/production/ser2sttildk9yt7t2s91"
+                        }
+                    },
+                    {
+                        "type": "carouselElement",
+                        "subtype": "image",
+                        "data": {
+                            "bannerId": 181680,
+                            "creativeId": "a3jqjjod5taken7dh1bs",
+                            "type": "restaurantCollectionV2",
+                            "link": "11721",
+                            "cityId": 0,
+                            "restaurantUuid": "",
+                            "restaurantParentId": "0",
+                            "title": "Veg Only",
+                            "subtitle": "0 OPTIONS",
+                            "restaurants": [],
+                            "totalCount": 0,
+                            "dwebOpenFilterTitle": "Vegetarian Options",
+                            "dwebOpenFilterBgColor": "#FF0000",
+                            "dwebOpenFilterSelectIcon": "qtjc8dzfexg72lug37a0",
+                            "dwebOpenFilterDeselectIcon": "bm8bziikwyvwqsml1clm"
+                        }
+                    }
+                ]
+            }
+        },
+        "parentWidget": false
+    },
+    {
+        "cardType": "seeAllRestaurants",
+        "layoutAlignmentType": "VERTICAL",
+        "data": {
+            "type": "seeAllRestaurants",
+            "data": {
+                "title": "SEE ALL",
+                "totalOpenRestaurants": 1429,
+                "cards": [
+                    {
+                        "type": "restaurant",
+                        "data": {
+                            "type": "F",
+                            "id": "456348",
+                            "name": "Dindigul Thalappakatti",
+                            "uuid": "b69db1d8-631c-49ba-88f0-17fe6b8091f6",
+                            "city": "1",
+                            "area": "Yelahanka",
+                            "totalRatingsString": "100+ ratings",
+                            "cloudinaryImageId": "e4kfkbbzrbw3c5il9nlc",
+                            "cuisines": [
+                                "South Indian",
+                                "North Indian",
+                                "Chinese",
+                                "Beverages",
+                                "Barbecue"
+                            ],
+                            "tags": [],
+                            "costForTwo": 65000,
+                            "costForTwoString": "₹650 FOR TWO",
+                            "deliveryTime": 30,
+                            "minDeliveryTime": 30,
+                            "maxDeliveryTime": 30,
+                            "slaString": "30 MINS",
+                            "lastMileTravel": 5,
+                            "slugs": {
+                                "restaurant": "dindigul-thalappakatti-yelahanka-yelahanka-3",
+                                "city": "bangalore"
+                            },
+                            "cityState": "1",
+                            "address": "Counter No 3, second floor, Food Court RMZ galleria mall, Ambedkar colony, Yelahanka, BBMP north, Karnataka 560064",
+                            "locality": "RMZ Galleraia",
+                            "parentId": 332,
+                            "unserviceable": false,
+                            "veg": false,
+                            "select": false,
+                            "favorite": false,
+                            "tradeCampaignHeaders": [],
+                            "aggregatedDiscountInfo": {
+                                "header": "50% off",
+                                "shortDescriptionList": [
+                                    {
+                                        "meta": "50% off | Use WELCOME50",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "descriptionList": [
+                                    {
+                                        "meta": "50% off up to ₹100 | Use code WELCOME50",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "subHeader": "",
+                                "headerType": 0,
+                                "superFreedel": ""
+                            },
+                            "aggregatedDiscountInfoV2": {
+                                "header": "50% OFF",
+                                "shortDescriptionList": [
+                                    {
+                                        "meta": "Use WELCOME50",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "descriptionList": [
+                                    {
+                                        "meta": "50% off up to ₹100 | Use code WELCOME50",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "subHeader": "",
+                                "headerType": 0,
+                                "superFreedel": ""
+                            },
+                            "ribbon": [
+                                {
+                                    "type": "PROMOTED"
+                                }
+                            ],
+                            "chain": [],
+                            "feeDetails": {
+                                "fees": [],
+                                "totalFees": 0,
+                                "message": "",
+                                "title": "",
+                                "amount": "",
+                                "icon": ""
+                            },
+                            "availability": {
+                                "opened": true,
+                                "nextOpenMessage": "",
+                                "nextCloseMessage": ""
+                            },
+                            "longDistanceEnabled": 0,
+                            "rainMode": "NONE",
+                            "thirdPartyAddress": false,
+                            "thirdPartyVendor": "",
+                            "adTrackingID": "cid=5693532~p=1~eid=00000185-8b1b-f359-0e8e-a64800b80158",
+                            "badges": {
+                                "imageBased": [],
+                                "textBased": [],
+                                "textExtendedBadges": []
+                            },
+                            "lastMileTravelString": "5 kms",
+                            "hasSurge": false,
+                            "sla": {
+                                "restaurantId": "456348",
+                                "deliveryTime": 30,
+                                "minDeliveryTime": 30,
+                                "maxDeliveryTime": 30,
+                                "lastMileTravel": 5,
+                                "lastMileDistance": 0,
+                                "serviceability": "SERVICEABLE",
+                                "rainMode": "NONE",
+                                "longDistance": "NOT_LONG_DISTANCE",
+                                "preferentialService": false,
+                                "iconType": "EMPTY"
+                            },
+                            "promoted": true,
+                            "avgRating": "3.9",
+                            "totalRatings": 100,
+                            "new": false
+                        },
+                        "subtype": "basic"
+                    },
+                    {
+                        "type": "restaurant",
+                        "data": {
+                            "type": "F",
+                            "id": "120178",
+                            "name": "Meghana Foods",
+                            "uuid": "f6b09091-fbfb-4efc-84b7-dadbd0a36a23",
+                            "city": "1",
+                            "area": "Sahakara Nagar",
+                            "totalRatingsString": "1000+ ratings",
+                            "cloudinaryImageId": "oycavthjdkphqevhzk7t",
+                            "cuisines": [
+                                "Biryani",
+                                "Andhra",
+                                "North Indian",
+                                "South Indian",
+                                "Chinese",
+                                "Seafood"
+                            ],
+                            "tags": [],
+                            "costForTwo": 50000,
+                            "costForTwoString": "₹500 FOR TWO",
+                            "deliveryTime": 12,
+                            "minDeliveryTime": 12,
+                            "maxDeliveryTime": 12,
+                            "slaString": "12 MINS",
+                            "lastMileTravel": 0.699999988079071,
+                            "slugs": {
+                                "restaurant": "meghana-foods-yelahanka-sahakar-nagar",
+                                "city": "bangalore"
+                            },
+                            "cityState": "1",
+                            "address": "GRD West Gate situated at Site no. 2822, Khatha no. 2916/2822, Sahakara Nagar, Yelahanka Hobli, Bangalore 560092",
+                            "locality": "Park View Layout",
+                            "parentId": 635,
+                            "unserviceable": false,
+                            "veg": false,
+                            "select": false,
+                            "favorite": false,
+                            "tradeCampaignHeaders": [],
+                            "aggregatedDiscountInfo": {
+                                "header": "50% off",
+                                "shortDescriptionList": [
+                                    {
+                                        "meta": "50% off | Use WELCOME50",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "descriptionList": [
+                                    {
+                                        "meta": "50% off up to ₹100 | Use code WELCOME50",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "subHeader": "",
+                                "headerType": 0,
+                                "superFreedel": ""
+                            },
+                            "aggregatedDiscountInfoV2": {
+                                "header": "50% OFF",
+                                "shortDescriptionList": [
+                                    {
+                                        "meta": "Use WELCOME50",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "descriptionList": [
+                                    {
+                                        "meta": "50% off up to ₹100 | Use code WELCOME50",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "subHeader": "",
+                                "headerType": 0,
+                                "superFreedel": ""
+                            },
+                            "chain": [],
+                            "feeDetails": {
+                                "fees": [],
+                                "totalFees": 0,
+                                "message": "",
+                                "title": "",
+                                "amount": "",
+                                "icon": ""
+                            },
+                            "availability": {
+                                "opened": true,
+                                "nextOpenMessage": "",
+                                "nextCloseMessage": ""
+                            },
+                            "longDistanceEnabled": 0,
+                            "rainMode": "NONE",
+                            "thirdPartyAddress": false,
+                            "thirdPartyVendor": "",
+                            "adTrackingID": "",
+                            "badges": {
+                                "imageBased": [],
+                                "textBased": [],
+                                "textExtendedBadges": []
+                            },
+                            "lastMileTravelString": "0.6 kms",
+                            "hasSurge": false,
+                            "sla": {
+                                "restaurantId": "120178",
+                                "deliveryTime": 12,
+                                "minDeliveryTime": 12,
+                                "maxDeliveryTime": 12,
+                                "lastMileTravel": 0.699999988079071,
+                                "lastMileDistance": 0,
+                                "serviceability": "SERVICEABLE",
+                                "rainMode": "NONE",
+                                "longDistance": "NOT_LONG_DISTANCE",
+                                "preferentialService": false,
+                                "iconType": "EMPTY"
+                            },
+                            "promoted": false,
+                            "avgRating": "4.4",
+                            "totalRatings": 1000,
+                            "new": false
+                        },
+                        "subtype": "basic"
+                    },
+                    {
+                        "type": "restaurant",
+                        "data": {
+                            "type": "F",
+                            "id": "402919",
+                            "name": "Maharaja Military Canteen",
+                            "uuid": "24c96d7c-abe9-43bd-8cab-7ab059eb8a70",
+                            "city": "1",
+                            "area": "R T Nagar",
+                            "totalRatingsString": "100+ ratings",
+                            "cloudinaryImageId": "nsjizcpg35ff2g5una6z",
+                            "cuisines": [
+                                "Indian"
+                            ],
+                            "tags": [],
+                            "costForTwo": 40000,
+                            "costForTwoString": "₹400 FOR TWO",
+                            "deliveryTime": 30,
+                            "minDeliveryTime": 30,
+                            "maxDeliveryTime": 30,
+                            "slaString": "30 MINS",
+                            "lastMileTravel": 4.800000190734863,
+                            "slugs": {
+                                "restaurant": "maharaja-military-canteen-r.t.-nagar-r.t.-nagar",
+                                "city": "bangalore"
+                            },
+                            "cityState": "1",
+                            "address": "NO 160,8th Cross Opp Geetha Nursing Home,Dinnur Main Road,R T Nagar,Bangalore-560061",
+                            "locality": "Dinnur Main Road",
+                            "parentId": 21056,
+                            "unserviceable": false,
+                            "veg": false,
+                            "select": false,
+                            "favorite": false,
+                            "tradeCampaignHeaders": [],
+                            "aggregatedDiscountInfo": {
+                                "header": "50% off",
+                                "shortDescriptionList": [
+                                    {
+                                        "meta": "50% off | Use WELCOME50",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "descriptionList": [
+                                    {
+                                        "meta": "50% off up to ₹100 | Use code WELCOME50",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "subHeader": "",
+                                "headerType": 0,
+                                "superFreedel": ""
+                            },
+                            "aggregatedDiscountInfoV2": {
+                                "header": "50% OFF",
+                                "shortDescriptionList": [
+                                    {
+                                        "meta": "Use WELCOME50",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "descriptionList": [
+                                    {
+                                        "meta": "50% off up to ₹100 | Use code WELCOME50",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "subHeader": "",
+                                "headerType": 0,
+                                "superFreedel": ""
+                            },
+                            "ribbon": [
+                                {
+                                    "type": "PROMOTED"
+                                }
+                            ],
+                            "chain": [],
+                            "feeDetails": {
+                                "fees": [],
+                                "totalFees": 0,
+                                "message": "",
+                                "title": "",
+                                "amount": "",
+                                "icon": ""
+                            },
+                            "availability": {
+                                "opened": true,
+                                "nextOpenMessage": "",
+                                "nextCloseMessage": ""
+                            },
+                            "longDistanceEnabled": 0,
+                            "rainMode": "NONE",
+                            "thirdPartyAddress": false,
+                            "thirdPartyVendor": "",
+                            "adTrackingID": "cid=5649877~p=4~eid=00000185-8b1b-f359-0e8e-a64900b80466",
+                            "badges": {
+                                "imageBased": [],
+                                "textBased": [],
+                                "textExtendedBadges": []
+                            },
+                            "lastMileTravelString": "4.8 kms",
+                            "hasSurge": false,
+                            "sla": {
+                                "restaurantId": "402919",
+                                "deliveryTime": 30,
+                                "minDeliveryTime": 30,
+                                "maxDeliveryTime": 30,
+                                "lastMileTravel": 4.800000190734863,
+                                "lastMileDistance": 0,
+                                "serviceability": "SERVICEABLE",
+                                "rainMode": "NONE",
+                                "longDistance": "NOT_LONG_DISTANCE",
+                                "preferentialService": false,
+                                "iconType": "EMPTY"
+                            },
+                            "promoted": true,
+                            "avgRating": "3.9",
+                            "totalRatings": 100,
+                            "new": false
+                        },
+                        "subtype": "basic"
+                    },
+                    {
+                        "type": "restaurant",
+                        "data": {
+                            "type": "F",
+                            "id": "23752",
+                            "name": "McDonald's",
+                            "uuid": "32ed739b-699d-463f-9a03-65ad9a576143",
+                            "city": "1",
+                            "area": "Sahakara Nagar",
+                            "totalRatingsString": "1000+ ratings",
+                            "cloudinaryImageId": "0e8f93a56b93e43d7627c2c21bc1106c",
+                            "cuisines": [
+                                "Burgers",
+                                "Beverages",
+                                "Cafe",
+                                "Desserts"
+                            ],
+                            "tags": [],
+                            "costForTwo": 40000,
+                            "costForTwoString": "₹400 FOR TWO",
+                            "deliveryTime": 19,
+                            "minDeliveryTime": 19,
+                            "maxDeliveryTime": 19,
+                            "slaString": "19 MINS",
+                            "lastMileTravel": 1.2999999523162842,
+                            "slugs": {
+                                "restaurant": "mc-donalds-sahakar-nagar-sahakar-nagar",
+                                "city": "bangalore"
+                            },
+                            "cityState": "1",
+                            "address": "Hardcastle Restaurants Pvt Ltd, McDonalds India Family Restaurant, Muncipal no 3148 (Old muncipal no 490/8 & 491/8), F Block, Sahakar Nagar Main Road, SahakarNagar, BBMP Ward no 13, Bangalore 560092",
+                            "locality": "Byatarayanapura",
+                            "parentId": 630,
+                            "unserviceable": false,
+                            "veg": false,
+                            "select": false,
+                            "favorite": false,
+                            "tradeCampaignHeaders": [],
+                            "aggregatedDiscountInfo": {
+                                "header": "50% off",
+                                "shortDescriptionList": [
+                                    {
+                                        "meta": "50% off | Use WELCOME50",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "descriptionList": [
+                                    {
+                                        "meta": "50% off up to ₹100 | Use code WELCOME50",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "subHeader": "",
+                                "headerType": 0,
+                                "superFreedel": ""
+                            },
+                            "aggregatedDiscountInfoV2": {
+                                "header": "50% OFF",
+                                "shortDescriptionList": [
+                                    {
+                                        "meta": "Use WELCOME50",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "descriptionList": [
+                                    {
+                                        "meta": "50% off up to ₹100 | Use code WELCOME50",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "subHeader": "",
+                                "headerType": 0,
+                                "superFreedel": ""
+                            },
+                            "chain": [],
+                            "feeDetails": {
+                                "fees": [],
+                                "totalFees": 0,
+                                "message": "",
+                                "title": "",
+                                "amount": "",
+                                "icon": ""
+                            },
+                            "availability": {
+                                "opened": true,
+                                "nextOpenMessage": "",
+                                "nextCloseMessage": ""
+                            },
+                            "longDistanceEnabled": 0,
+                            "rainMode": "NONE",
+                            "thirdPartyAddress": false,
+                            "thirdPartyVendor": "",
+                            "adTrackingID": "",
+                            "badges": {
+                                "imageBased": [],
+                                "textBased": [],
+                                "textExtendedBadges": []
+                            },
+                            "lastMileTravelString": "1.2 kms",
+                            "hasSurge": false,
+                            "sla": {
+                                "restaurantId": "23752",
+                                "deliveryTime": 19,
+                                "minDeliveryTime": 19,
+                                "maxDeliveryTime": 19,
+                                "lastMileTravel": 1.2999999523162842,
+                                "lastMileDistance": 0,
+                                "serviceability": "SERVICEABLE",
+                                "rainMode": "NONE",
+                                "longDistance": "NOT_LONG_DISTANCE",
+                                "preferentialService": false,
+                                "iconType": "EMPTY"
+                            },
+                            "promoted": false,
+                            "avgRating": "4.4",
+                            "totalRatings": 1000,
+                            "new": false
+                        },
+                        "subtype": "basic"
+                    },
+                    {
+                        "type": "restaurant",
+                        "data": {
+                            "type": "F",
+                            "id": "265272",
+                            "name": "Hotel Empire",
+                            "uuid": "af02c08c-5b72-4951-a3dc-381020d8a5ae",
+                            "city": "1",
+                            "area": "New BEL Road",
+                            "totalRatingsString": "1000+ ratings",
+                            "cloudinaryImageId": "c2nxvhpqcsxtnlb7wxwq",
+                            "cuisines": [
+                                "North Indian",
+                                "Kebabs",
+                                "Biryani"
+                            ],
+                            "tags": [],
+                            "costForTwo": 80000,
+                            "costForTwoString": "₹800 FOR TWO",
+                            "deliveryTime": 37,
+                            "minDeliveryTime": 37,
+                            "maxDeliveryTime": 37,
+                            "slaString": "37 MINS",
+                            "lastMileTravel": 4.300000190734863,
+                            "slugs": {
+                                "restaurant": "hotel-empire-sanjay-nagar,-new-bel-road-sanjay-nagar,-new-bel-road",
+                                "city": "bangalore"
+                            },
+                            "cityState": "1",
+                            "address": "2ND,3RD FLOOR MUNICIPAL NO:193,M H CHANDRAPPA,NEAR GOWRI APARTMENTS,NEW BEL ROAD,MATHIKERE,BANGALORE,B.B.M.P North,560054",
+                            "locality": "New BEL Road",
+                            "parentId": 475,
+                            "unserviceable": false,
+                            "veg": false,
+                            "select": false,
+                            "favorite": false,
+                            "tradeCampaignHeaders": [],
+                            "aggregatedDiscountInfo": {
+                                "header": "50% off",
+                                "shortDescriptionList": [
+                                    {
+                                        "meta": "50% off | Use WELCOME50",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "descriptionList": [
+                                    {
+                                        "meta": "50% off up to ₹100 | Use code WELCOME50",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "subHeader": "",
+                                "headerType": 0,
+                                "superFreedel": ""
+                            },
+                            "aggregatedDiscountInfoV2": {
+                                "header": "50% OFF",
+                                "shortDescriptionList": [
+                                    {
+                                        "meta": "Use WELCOME50",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "descriptionList": [
+                                    {
+                                        "meta": "50% off up to ₹100 | Use code WELCOME50",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "subHeader": "",
+                                "headerType": 0,
+                                "superFreedel": ""
+                            },
+                            "chain": [],
+                            "feeDetails": {
+                                "fees": [],
+                                "totalFees": 0,
+                                "message": "",
+                                "title": "",
+                                "amount": "",
+                                "icon": ""
+                            },
+                            "availability": {
+                                "opened": true,
+                                "nextOpenMessage": "",
+                                "nextCloseMessage": ""
+                            },
+                            "longDistanceEnabled": 0,
+                            "rainMode": "NONE",
+                            "thirdPartyAddress": false,
+                            "thirdPartyVendor": "",
+                            "adTrackingID": "",
+                            "badges": {
+                                "imageBased": [],
+                                "textBased": [],
+                                "textExtendedBadges": []
+                            },
+                            "lastMileTravelString": "4.3 kms",
+                            "hasSurge": false,
+                            "sla": {
+                                "restaurantId": "265272",
+                                "deliveryTime": 37,
+                                "minDeliveryTime": 37,
+                                "maxDeliveryTime": 37,
+                                "lastMileTravel": 4.300000190734863,
+                                "lastMileDistance": 0,
+                                "serviceability": "SERVICEABLE",
+                                "rainMode": "NONE",
+                                "longDistance": "NOT_LONG_DISTANCE",
+                                "preferentialService": false,
+                                "iconType": "EMPTY"
+                            },
+                            "promoted": false,
+                            "avgRating": "4.2",
+                            "totalRatings": 1000,
+                            "new": false
+                        },
+                        "subtype": "basic"
+                    },
+                    {
+                        "type": "restaurant",
+                        "data": {
+                            "type": "F",
+                            "id": "23353",
+                            "name": "Nandhana Palace",
+                            "uuid": "d13f2b77-1b7c-4f64-8484-b26384b411fa",
+                            "city": "1",
+                            "area": "E Block",
+                            "totalRatingsString": "1000+ ratings",
+                            "cloudinaryImageId": "ujlpae6rynvsip2wczzs",
+                            "cuisines": [
+                                "Biryani",
+                                "Andhra",
+                                "South Indian",
+                                "North Indian"
+                            ],
+                            "tags": [],
+                            "costForTwo": 50000,
+                            "costForTwoString": "₹500 FOR TWO",
+                            "deliveryTime": 24,
+                            "minDeliveryTime": 24,
+                            "maxDeliveryTime": 24,
+                            "slaString": "24 MINS",
+                            "lastMileTravel": 0.8999999761581421,
+                            "slugs": {
+                                "restaurant": "nandhana-palace-sahakara-nagar-sahakar-nagar",
+                                "city": "bangalore"
+                            },
+                            "cityState": "1",
+                            "address": "28/1, Behind Nature Basket, 5th Main, 1st Cross, E Block, Sahakara Nagar, Bangalore",
+                            "locality": "E Block",
+                            "parentId": 2120,
+                            "unserviceable": false,
+                            "veg": false,
+                            "select": false,
+                            "favorite": false,
+                            "tradeCampaignHeaders": [],
+                            "aggregatedDiscountInfo": {
+                                "header": "50% off",
+                                "shortDescriptionList": [
+                                    {
+                                        "meta": "50% off | Use WELCOME50",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "descriptionList": [
+                                    {
+                                        "meta": "50% off up to ₹100 | Use code WELCOME50",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "subHeader": "",
+                                "headerType": 0,
+                                "superFreedel": ""
+                            },
+                            "aggregatedDiscountInfoV2": {
+                                "header": "50% OFF",
+                                "shortDescriptionList": [
+                                    {
+                                        "meta": "Use WELCOME50",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "descriptionList": [
+                                    {
+                                        "meta": "50% off up to ₹100 | Use code WELCOME50",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "subHeader": "",
+                                "headerType": 0,
+                                "superFreedel": ""
+                            },
+                            "ribbon": [
+                                {
+                                    "type": "PROMOTED"
+                                }
+                            ],
+                            "chain": [],
+                            "feeDetails": {
+                                "fees": [],
+                                "totalFees": 0,
+                                "message": "",
+                                "title": "",
+                                "amount": "",
+                                "icon": ""
+                            },
+                            "availability": {
+                                "opened": true,
+                                "nextOpenMessage": "",
+                                "nextCloseMessage": ""
+                            },
+                            "longDistanceEnabled": 0,
+                            "rainMode": "NONE",
+                            "thirdPartyAddress": false,
+                            "thirdPartyVendor": "",
+                            "adTrackingID": "cid=5629412~p=7~eid=00000185-8b1b-f359-0e8e-a64a00b80755",
+                            "badges": {
+                                "imageBased": [],
+                                "textBased": [],
+                                "textExtendedBadges": []
+                            },
+                            "lastMileTravelString": "0.8 kms",
+                            "hasSurge": false,
+                            "sla": {
+                                "restaurantId": "23353",
+                                "deliveryTime": 24,
+                                "minDeliveryTime": 24,
+                                "maxDeliveryTime": 24,
+                                "lastMileTravel": 0.8999999761581421,
+                                "lastMileDistance": 0,
+                                "serviceability": "SERVICEABLE",
+                                "rainMode": "NONE",
+                                "longDistance": "NOT_LONG_DISTANCE",
+                                "preferentialService": false,
+                                "iconType": "EMPTY"
+                            },
+                            "promoted": true,
+                            "avgRating": "4.3",
+                            "totalRatings": 1000,
+                            "new": false
+                        },
+                        "subtype": "basic"
+                    },
+                    {
+                        "type": "restaurant",
+                        "data": {
+                            "type": "F",
+                            "id": "644864",
+                            "name": "Burger King",
+                            "uuid": "9bc62589-b81f-476f-9e69-0bafac85062a",
+                            "city": "1",
+                            "area": "Yelahanka",
+                            "totalRatingsString": "100+ ratings",
+                            "cloudinaryImageId": "49c2de336da7fe4e91345a622b7d7abd",
+                            "cuisines": [
+                                "Burgers",
+                                "American"
+                            ],
+                            "tags": [],
+                            "costForTwo": 35000,
+                            "costForTwoString": "₹350 FOR TWO",
+                            "deliveryTime": 30,
+                            "minDeliveryTime": 30,
+                            "maxDeliveryTime": 30,
+                            "slaString": "30 MINS",
+                            "lastMileTravel": 4.800000190734863,
+                            "slugs": {
+                                "restaurant": "burger-king-vidyaranyapura-vidyaranyapura",
+                                "city": "bangalore"
+                            },
+                            "cityState": "1",
+                            "address": "Site No.570,Ground Floor, BBMP Katha No.543/2223/570, in Sy.Nos.34 to 39,41 to 51(Portion),Situated at Narasipura Village,Vidyaranyapura Zone, Yelahanka Hobli,Bengaluru,560097",
+                            "locality": "Vidyaranyapura",
+                            "parentId": 166,
+                            "unserviceable": false,
+                            "veg": false,
+                            "select": false,
+                            "favorite": false,
+                            "tradeCampaignHeaders": [],
+                            "aggregatedDiscountInfo": {
+                                "header": "60% off",
+                                "shortDescriptionList": [
+                                    {
+                                        "meta": "60% off | Use STEALDEAL",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "descriptionList": [
+                                    {
+                                        "meta": "60% off up to ₹120 | Use code STEALDEAL",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "subHeader": "",
+                                "headerType": 0,
+                                "superFreedel": ""
+                            },
+                            "aggregatedDiscountInfoV2": {
+                                "header": "60% OFF",
+                                "shortDescriptionList": [
+                                    {
+                                        "meta": "Use STEALDEAL",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "descriptionList": [
+                                    {
+                                        "meta": "60% off up to ₹120 | Use code STEALDEAL",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "subHeader": "",
+                                "headerType": 0,
+                                "superFreedel": ""
+                            },
+                            "ribbon": [
+                                {
+                                    "type": "NEW"
+                                }
+                            ],
+                            "chain": [],
+                            "feeDetails": {
+                                "fees": [],
+                                "totalFees": 0,
+                                "message": "",
+                                "title": "",
+                                "amount": "",
+                                "icon": ""
+                            },
+                            "availability": {
+                                "opened": true,
+                                "nextOpenMessage": "",
+                                "nextCloseMessage": ""
+                            },
+                            "longDistanceEnabled": 0,
+                            "rainMode": "NONE",
+                            "thirdPartyAddress": false,
+                            "thirdPartyVendor": "",
+                            "adTrackingID": "",
+                            "badges": {
+                                "imageBased": [],
+                                "textBased": [],
+                                "textExtendedBadges": []
+                            },
+                            "lastMileTravelString": "4.8 kms",
+                            "hasSurge": false,
+                            "sla": {
+                                "restaurantId": "644864",
+                                "deliveryTime": 30,
+                                "minDeliveryTime": 30,
+                                "maxDeliveryTime": 30,
+                                "lastMileTravel": 4.800000190734863,
+                                "lastMileDistance": 0,
+                                "serviceability": "SERVICEABLE",
+                                "rainMode": "NONE",
+                                "longDistance": "NOT_LONG_DISTANCE",
+                                "preferentialService": false,
+                                "iconType": "EMPTY"
+                            },
+                            "promoted": false,
+                            "avgRating": "4.2",
+                            "totalRatings": 100,
+                            "new": true
+                        },
+                        "subtype": "basic"
+                    },
+                    {
+                        "type": "restaurant",
+                        "data": {
+                            "type": "F",
+                            "id": "112265",
+                            "name": "Rang De Basanti Dhaba",
+                            "uuid": "47722b34-98a3-4e2e-962c-8875380760e9",
+                            "city": "1",
+                            "area": "Sahakara Nagar",
+                            "totalRatingsString": "500+ ratings",
+                            "cloudinaryImageId": "phl3tnhgaxu0fkrkvxwo",
+                            "cuisines": [
+                                "North Indian",
+                                "Kebabs",
+                                "Biryani",
+                                "Snacks",
+                                "Punjabi",
+                                "Desserts",
+                                "Tandoor",
+                                "Indian"
+                            ],
+                            "tags": [],
+                            "costForTwo": 30000,
+                            "costForTwoString": "₹300 FOR TWO",
+                            "deliveryTime": 27,
+                            "minDeliveryTime": 27,
+                            "maxDeliveryTime": 27,
+                            "slaString": "27 MINS",
+                            "lastMileTravel": 1.100000023841858,
+                            "slugs": {
+                                "restaurant": "rang-de-basanti-dhaba-sahakar-nagar",
+                                "city": "bangalore"
+                            },
+                            "cityState": "1",
+                            "address": "Site no. 16 & 17, Kodigehalli Main Road, Near Chairman's Club, Survey no. 2/1 and 15/2, Kothihosahalli Village, Yelahanka Hobli, Bangalore  560092",
+                            "locality": "Kothihosahalli Village",
+                            "parentId": 758,
+                            "unserviceable": false,
+                            "veg": false,
+                            "select": false,
+                            "favorite": false,
+                            "tradeCampaignHeaders": [],
+                            "aggregatedDiscountInfo": {
+                                "header": "50% off",
+                                "shortDescriptionList": [
+                                    {
+                                        "meta": "50% off | Use WELCOME50",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "descriptionList": [
+                                    {
+                                        "meta": "50% off up to ₹100 | Use code WELCOME50",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "subHeader": "",
+                                "headerType": 0,
+                                "superFreedel": ""
+                            },
+                            "aggregatedDiscountInfoV2": {
+                                "header": "50% OFF",
+                                "shortDescriptionList": [
+                                    {
+                                        "meta": "Use WELCOME50",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "descriptionList": [
+                                    {
+                                        "meta": "50% off up to ₹100 | Use code WELCOME50",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "subHeader": "",
+                                "headerType": 0,
+                                "superFreedel": ""
+                            },
+                            "ribbon": [
+                                {
+                                    "type": "PROMOTED"
+                                }
+                            ],
+                            "chain": [],
+                            "feeDetails": {
+                                "fees": [],
+                                "totalFees": 0,
+                                "message": "",
+                                "title": "",
+                                "amount": "",
+                                "icon": ""
+                            },
+                            "availability": {
+                                "opened": true,
+                                "nextOpenMessage": "",
+                                "nextCloseMessage": ""
+                            },
+                            "longDistanceEnabled": 0,
+                            "rainMode": "NONE",
+                            "thirdPartyAddress": false,
+                            "thirdPartyVendor": "",
+                            "adTrackingID": "cid=5632319~p=10~eid=00000185-8b1b-f359-0e8e-a64b00b80a4e",
+                            "badges": {
+                                "imageBased": [],
+                                "textBased": [],
+                                "textExtendedBadges": []
+                            },
+                            "lastMileTravelString": "1.1 kms",
+                            "hasSurge": false,
+                            "sla": {
+                                "restaurantId": "112265",
+                                "deliveryTime": 27,
+                                "minDeliveryTime": 27,
+                                "maxDeliveryTime": 27,
+                                "lastMileTravel": 1.100000023841858,
+                                "lastMileDistance": 0,
+                                "serviceability": "SERVICEABLE",
+                                "rainMode": "NONE",
+                                "longDistance": "NOT_LONG_DISTANCE",
+                                "preferentialService": false,
+                                "iconType": "EMPTY"
+                            },
+                            "promoted": true,
+                            "avgRating": "4.1",
+                            "totalRatings": 500,
+                            "new": false
+                        },
+                        "subtype": "basic"
+                    },
+                    {
+                        "type": "restaurant",
+                        "data": {
+                            "type": "F",
+                            "id": "132930",
+                            "name": "Sangam Mess",
+                            "uuid": "7923a991-ca40-4b4c-9f3f-eb39edf196df",
+                            "city": "1",
+                            "area": "Kammanahalli/Kalyan Nagar",
+                            "totalRatingsString": "1000+ ratings",
+                            "cloudinaryImageId": "it1t0ccxhlko4a1bpjg0",
+                            "cuisines": [
+                                "Kerala",
+                                "South Indian",
+                                "Biryani",
+                                "Seafood",
+                                "Beverages"
+                            ],
+                            "tags": [],
+                            "costForTwo": 30000,
+                            "costForTwoString": "₹300 FOR TWO",
+                            "deliveryTime": 43,
+                            "minDeliveryTime": 43,
+                            "maxDeliveryTime": 43,
+                            "slaString": "43 MINS",
+                            "lastMileTravel": 8.399999618530273,
+                            "slugs": {
+                                "restaurant": "sangam-mess-kammanahallikalyan-nagar-kammanahallikalyan-nagar",
+                                "city": "bangalore"
+                            },
+                            "cityState": "1",
+                            "address": "7 3rd Cross Chinnappa Layot Opp Sansar Collections Kammanahalli Main Road Bangalore 560084",
+                            "locality": "Chinnappa Layout",
+                            "parentId": 20972,
+                            "unserviceable": false,
+                            "veg": false,
+                            "select": false,
+                            "favorite": false,
+                            "tradeCampaignHeaders": [],
+                            "aggregatedDiscountInfo": {
+                                "header": "50% off",
+                                "shortDescriptionList": [
+                                    {
+                                        "meta": "50% off | Use WELCOME50",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "descriptionList": [
+                                    {
+                                        "meta": "50% off up to ₹100 | Use code WELCOME50",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "subHeader": "",
+                                "headerType": 0,
+                                "superFreedel": ""
+                            },
+                            "aggregatedDiscountInfoV2": {
+                                "header": "50% OFF",
+                                "shortDescriptionList": [
+                                    {
+                                        "meta": "Use WELCOME50",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "descriptionList": [
+                                    {
+                                        "meta": "50% off up to ₹100 | Use code WELCOME50",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "subHeader": "",
+                                "headerType": 0,
+                                "superFreedel": ""
+                            },
+                            "chain": [],
+                            "feeDetails": {
+                                "fees": [],
+                                "totalFees": 0,
+                                "message": "",
+                                "title": "",
+                                "amount": "",
+                                "icon": ""
+                            },
+                            "availability": {
+                                "opened": true,
+                                "nextOpenMessage": "",
+                                "nextCloseMessage": ""
+                            },
+                            "longDistanceEnabled": 0,
+                            "rainMode": "NONE",
+                            "thirdPartyAddress": false,
+                            "thirdPartyVendor": "",
+                            "adTrackingID": "",
+                            "badges": {
+                                "imageBased": [],
+                                "textBased": [],
+                                "textExtendedBadges": []
+                            },
+                            "lastMileTravelString": "8.3 kms",
+                            "hasSurge": false,
+                            "sla": {
+                                "restaurantId": "132930",
+                                "deliveryTime": 43,
+                                "minDeliveryTime": 43,
+                                "maxDeliveryTime": 43,
+                                "lastMileTravel": 8.399999618530273,
+                                "lastMileDistance": 0,
+                                "serviceability": "SERVICEABLE",
+                                "rainMode": "NONE",
+                                "longDistance": "NOT_LONG_DISTANCE",
+                                "preferentialService": false,
+                                "iconType": "EMPTY"
+                            },
+                            "promoted": false,
+                            "avgRating": "4.3",
+                            "totalRatings": 1000,
+                            "new": false
+                        },
+                        "subtype": "basic"
+                    },
+                    {
+                        "type": "restaurant",
+                        "data": {
+                            "type": "F",
+                            "id": "130355",
+                            "name": "Aattutheeram Kerala restaurant",
+                            "uuid": "600f2426-69fc-4e52-9d9a-7d8e2b1fc06c",
+                            "city": "1",
+                            "area": "Hennur",
+                            "totalRatingsString": "1000+ ratings",
+                            "cloudinaryImageId": "qwof6j3ekh3iy6j1nwjq",
+                            "cuisines": [
+                                "Kerala",
+                                "Seafood",
+                                "Biryani",
+                                "Chinese"
+                            ],
+                            "tags": [],
+                            "costForTwo": 25000,
+                            "costForTwoString": "₹250 FOR TWO",
+                            "deliveryTime": 41,
+                            "minDeliveryTime": 41,
+                            "maxDeliveryTime": 41,
+                            "slaString": "41 MINS",
+                            "lastMileTravel": 7.800000190734863,
+                            "slugs": {
+                                "restaurant": "aattutheeram-kerala-restaurant-test-prod-area",
+                                "city": "bangalore"
+                            },
+                            "cityState": "1",
+                            "address": "shop no: 5&6, 28/2 Vidya manner building Kothanoor",
+                            "locality": "Kothanur",
+                            "parentId": 21348,
+                            "unserviceable": false,
+                            "veg": false,
+                            "select": false,
+                            "favorite": false,
+                            "tradeCampaignHeaders": [],
+                            "aggregatedDiscountInfo": {
+                                "header": "50% off",
+                                "shortDescriptionList": [
+                                    {
+                                        "meta": "50% off | Use WELCOME50",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "descriptionList": [
+                                    {
+                                        "meta": "50% off up to ₹100 | Use code WELCOME50",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "subHeader": "",
+                                "headerType": 0,
+                                "superFreedel": ""
+                            },
+                            "aggregatedDiscountInfoV2": {
+                                "header": "50% OFF",
+                                "shortDescriptionList": [
+                                    {
+                                        "meta": "Use WELCOME50",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "descriptionList": [
+                                    {
+                                        "meta": "50% off up to ₹100 | Use code WELCOME50",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "subHeader": "",
+                                "headerType": 0,
+                                "superFreedel": ""
+                            },
+                            "ribbon": [
+                                {
+                                    "type": "PROMOTED"
+                                }
+                            ],
+                            "chain": [],
+                            "feeDetails": {
+                                "fees": [],
+                                "totalFees": 0,
+                                "message": "",
+                                "title": "",
+                                "amount": "",
+                                "icon": ""
+                            },
+                            "availability": {
+                                "opened": true,
+                                "nextOpenMessage": "",
+                                "nextCloseMessage": ""
+                            },
+                            "longDistanceEnabled": 0,
+                            "rainMode": "NONE",
+                            "thirdPartyAddress": false,
+                            "thirdPartyVendor": "",
+                            "adTrackingID": "cid=5676328~p=13~eid=00000185-8b1b-f359-0e8e-a64c00b80d0c",
+                            "badges": {
+                                "imageBased": [],
+                                "textBased": [],
+                                "textExtendedBadges": []
+                            },
+                            "lastMileTravelString": "7.8 kms",
+                            "hasSurge": false,
+                            "sla": {
+                                "restaurantId": "130355",
+                                "deliveryTime": 41,
+                                "minDeliveryTime": 41,
+                                "maxDeliveryTime": 41,
+                                "lastMileTravel": 7.800000190734863,
+                                "lastMileDistance": 0,
+                                "serviceability": "SERVICEABLE",
+                                "rainMode": "NONE",
+                                "longDistance": "NOT_LONG_DISTANCE",
+                                "preferentialService": false,
+                                "iconType": "EMPTY"
+                            },
+                            "promoted": true,
+                            "avgRating": "4.2",
+                            "totalRatings": 1000,
+                            "new": false
+                        },
+                        "subtype": "basic"
+                    },
+                    {
+                        "type": "restaurant",
+                        "data": {
+                            "type": "F",
+                            "id": "15386",
+                            "name": "Kritunga Restaurant",
+                            "uuid": "b9c89f30-4f5e-4d96-8009-a743ee77ae97",
+                            "city": "1",
+                            "area": "Sahakar Nagar",
+                            "totalRatingsString": "500+ ratings",
+                            "cloudinaryImageId": "pqk6wh0nslnekrom8jxf",
+                            "cuisines": [
+                                "Andhra",
+                                "Biryani"
+                            ],
+                            "tags": [],
+                            "costForTwo": 75000,
+                            "costForTwoString": "₹750 FOR TWO",
+                            "deliveryTime": 16,
+                            "minDeliveryTime": 16,
+                            "maxDeliveryTime": 16,
+                            "slaString": "16 MINS",
+                            "lastMileTravel": 0.8999999761581421,
+                            "slugs": {
+                                "restaurant": "kritunga-restaurant-sahakar-nagar-sahakar-nagar",
+                                "city": "bangalore"
+                            },
+                            "cityState": "1",
+                            "address": "4th Floor, Above Sleepwell Gallery, Beside Swati Restaurant, Sahakarnagar, Kodigehalli, Sahakara Nagar, Byatarayanapura, Bengaluru, Karnataka 560092",
+                            "locality": "Kodigehalli",
+                            "parentId": 20088,
+                            "unserviceable": false,
+                            "veg": false,
+                            "select": false,
+                            "favorite": false,
+                            "tradeCampaignHeaders": [],
+                            "aggregatedDiscountInfo": {
+                                "header": "50% off",
+                                "shortDescriptionList": [
+                                    {
+                                        "meta": "50% off | Use WELCOME50",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "descriptionList": [
+                                    {
+                                        "meta": "50% off up to ₹100 | Use code WELCOME50",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "subHeader": "",
+                                "headerType": 0,
+                                "superFreedel": ""
+                            },
+                            "aggregatedDiscountInfoV2": {
+                                "header": "50% OFF",
+                                "shortDescriptionList": [
+                                    {
+                                        "meta": "Use WELCOME50",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "descriptionList": [
+                                    {
+                                        "meta": "50% off up to ₹100 | Use code WELCOME50",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "subHeader": "",
+                                "headerType": 0,
+                                "superFreedel": ""
+                            },
+                            "chain": [],
+                            "feeDetails": {
+                                "fees": [],
+                                "totalFees": 0,
+                                "message": "",
+                                "title": "",
+                                "amount": "",
+                                "icon": ""
+                            },
+                            "availability": {
+                                "opened": true,
+                                "nextOpenMessage": "",
+                                "nextCloseMessage": ""
+                            },
+                            "longDistanceEnabled": 0,
+                            "rainMode": "NONE",
+                            "thirdPartyAddress": false,
+                            "thirdPartyVendor": "",
+                            "adTrackingID": "",
+                            "badges": {
+                                "imageBased": [],
+                                "textBased": [],
+                                "textExtendedBadges": []
+                            },
+                            "lastMileTravelString": "0.8 kms",
+                            "hasSurge": false,
+                            "sla": {
+                                "restaurantId": "15386",
+                                "deliveryTime": 16,
+                                "minDeliveryTime": 16,
+                                "maxDeliveryTime": 16,
+                                "lastMileTravel": 0.8999999761581421,
+                                "lastMileDistance": 0,
+                                "serviceability": "SERVICEABLE",
+                                "rainMode": "NONE",
+                                "longDistance": "NOT_LONG_DISTANCE",
+                                "preferentialService": false,
+                                "iconType": "EMPTY"
+                            },
+                            "promoted": false,
+                            "avgRating": "4.0",
+                            "totalRatings": 500,
+                            "new": false
+                        },
+                        "subtype": "basic"
+                    },
+                    {
+                        "type": "restaurant",
+                        "data": {
+                            "type": "F",
+                            "id": "3368",
+                            "name": "Truffles",
+                            "uuid": "6cb747e4-bf98-442c-a3c6-004ef92587b8",
+                            "city": "1",
+                            "area": "Sanjay Nagar, New BEL Road",
+                            "totalRatingsString": "5000+ ratings",
+                            "cloudinaryImageId": "2c882d39ca1bbee94303787977a4dc09",
+                            "cuisines": [
+                                "American",
+                                "Desserts",
+                                "Italian",
+                                "Continental"
+                            ],
+                            "tags": [],
+                            "costForTwo": 45000,
+                            "costForTwoString": "₹450 FOR TWO",
+                            "deliveryTime": 47,
+                            "minDeliveryTime": 47,
+                            "maxDeliveryTime": 47,
+                            "slaString": "47 MINS",
+                            "lastMileTravel": 5,
+                            "slugs": {
+                                "restaurant": "truffles-ice-spice-sanjay-nagar-new-bel-road-yeshwanthpur",
+                                "city": "bangalore"
+                            },
+                            "cityState": "1",
+                            "address": "84, 80 Feet Road, RMV 2nd Stage, New BEL Road, Bangalore",
+                            "locality": "Ms Ramaiah Nagar",
+                            "parentId": 218065,
+                            "unserviceable": false,
+                            "veg": false,
+                            "select": false,
+                            "favorite": false,
+                            "tradeCampaignHeaders": [],
+                            "aggregatedDiscountInfo": {
+                                "header": "50% off",
+                                "shortDescriptionList": [
+                                    {
+                                        "meta": "50% off | Use WELCOME50",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "descriptionList": [
+                                    {
+                                        "meta": "50% off up to ₹100 | Use code WELCOME50",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "subHeader": "",
+                                "headerType": 0,
+                                "superFreedel": ""
+                            },
+                            "aggregatedDiscountInfoV2": {
+                                "header": "50% OFF",
+                                "shortDescriptionList": [
+                                    {
+                                        "meta": "Use WELCOME50",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "descriptionList": [
+                                    {
+                                        "meta": "50% off up to ₹100 | Use code WELCOME50",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "subHeader": "",
+                                "headerType": 0,
+                                "superFreedel": ""
+                            },
+                            "chain": [],
+                            "feeDetails": {
+                                "fees": [],
+                                "totalFees": 0,
+                                "message": "",
+                                "title": "",
+                                "amount": "",
+                                "icon": ""
+                            },
+                            "availability": {
+                                "opened": true,
+                                "nextOpenMessage": "",
+                                "nextCloseMessage": ""
+                            },
+                            "longDistanceEnabled": 0,
+                            "rainMode": "NONE",
+                            "thirdPartyAddress": false,
+                            "thirdPartyVendor": "",
+                            "adTrackingID": "",
+                            "badges": {
+                                "imageBased": [],
+                                "textBased": [],
+                                "textExtendedBadges": []
+                            },
+                            "lastMileTravelString": "5 kms",
+                            "hasSurge": false,
+                            "sla": {
+                                "restaurantId": "3368",
+                                "deliveryTime": 47,
+                                "minDeliveryTime": 47,
+                                "maxDeliveryTime": 47,
+                                "lastMileTravel": 5,
+                                "lastMileDistance": 0,
+                                "serviceability": "SERVICEABLE",
+                                "rainMode": "NONE",
+                                "longDistance": "NOT_LONG_DISTANCE",
+                                "preferentialService": false,
+                                "iconType": "EMPTY"
+                            },
+                            "promoted": false,
+                            "avgRating": "4.4",
+                            "totalRatings": 5000,
+                            "new": false
+                        },
+                        "subtype": "basic"
+                    },
+                    {
+                        "type": "restaurant",
+                        "data": {
+                            "type": "F",
+                            "id": "439818",
+                            "name": "MEGHDUTH BIRYANIS",
+                            "uuid": "4365c121-79bb-4109-bf42-f16962053630",
+                            "city": "1",
+                            "area": "Yelahanka",
+                            "totalRatingsString": "100+ ratings",
+                            "cloudinaryImageId": "wnxefsoinp28dyga9dcu",
+                            "cuisines": [
+                                "Biryani",
+                                "Chinese",
+                                "Andhra",
+                                "South Indian"
+                            ],
+                            "tags": [],
+                            "costForTwo": 40000,
+                            "costForTwoString": "₹400 FOR TWO",
+                            "deliveryTime": 32,
+                            "minDeliveryTime": 32,
+                            "maxDeliveryTime": 32,
+                            "slaString": "32 MINS",
+                            "lastMileTravel": 6.900000095367432,
+                            "slugs": {
+                                "restaurant": "meghduth-biryanis-yelahanka-yelahanka",
+                                "city": "bangalore"
+                            },
+                            "cityState": "1",
+                            "address": "\"NO.2050, MIG, 3RD PHASE, 14TH 'B' MAIN (DOUBLE ROAD), WARD NO.4,'B' SECTOR, YELAHANKA NEW TOWN, NEAR MOTHER DIARY BUS STOP, B.B.M.P Nori, Karnataka 560064 \"",
+                            "locality": "3rd Phase",
+                            "parentId": 134915,
+                            "unserviceable": false,
+                            "veg": false,
+                            "select": false,
+                            "favorite": false,
+                            "tradeCampaignHeaders": [],
+                            "aggregatedDiscountInfo": {
+                                "header": "40% off",
+                                "shortDescriptionList": [
+                                    {
+                                        "meta": "40% off on all orders",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    },
+                                    {
+                                        "meta": "FREE DELIVERY",
+                                        "discountType": "FREE_DELIVERY",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "descriptionList": [
+                                    {
+                                        "meta": "40% off on all orders",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    },
+                                    {
+                                        "meta": "FREE DELIVERY",
+                                        "discountType": "FREE_DELIVERY",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "subHeader": "",
+                                "headerType": 0,
+                                "superFreedel": ""
+                            },
+                            "aggregatedDiscountInfoV2": {
+                                "header": "40% OFF",
+                                "shortDescriptionList": [
+                                    {
+                                        "meta": "Free Delivery",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "descriptionList": [
+                                    {
+                                        "meta": "40% off on all orders",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    },
+                                    {
+                                        "meta": "FREE DELIVERY",
+                                        "discountType": "FREE_DELIVERY",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "subHeader": "",
+                                "headerType": 0,
+                                "superFreedel": ""
+                            },
+                            "ribbon": [
+                                {
+                                    "type": "PROMOTED"
+                                }
+                            ],
+                            "chain": [],
+                            "feeDetails": {
+                                "fees": [],
+                                "totalFees": 0,
+                                "message": "",
+                                "title": "",
+                                "amount": "",
+                                "icon": ""
+                            },
+                            "availability": {
+                                "opened": true,
+                                "nextOpenMessage": "",
+                                "nextCloseMessage": ""
+                            },
+                            "longDistanceEnabled": 0,
+                            "rainMode": "NONE",
+                            "thirdPartyAddress": false,
+                            "thirdPartyVendor": "",
+                            "adTrackingID": "cid=5697798~p=16~eid=00000185-8b1b-f359-0e8e-a64d00b81024",
+                            "badges": {
+                                "imageBased": [],
+                                "textBased": [],
+                                "textExtendedBadges": []
+                            },
+                            "lastMileTravelString": "6.9 kms",
+                            "hasSurge": false,
+                            "sla": {
+                                "restaurantId": "439818",
+                                "deliveryTime": 32,
+                                "minDeliveryTime": 32,
+                                "maxDeliveryTime": 32,
+                                "lastMileTravel": 6.900000095367432,
+                                "lastMileDistance": 0,
+                                "serviceability": "SERVICEABLE",
+                                "rainMode": "NONE",
+                                "longDistance": "NOT_LONG_DISTANCE",
+                                "preferentialService": false,
+                                "iconType": "EMPTY"
+                            },
+                            "promoted": true,
+                            "avgRating": "3.9",
+                            "totalRatings": 100,
+                            "new": false
+                        },
+                        "subtype": "basic"
+                    },
+                    {
+                        "type": "restaurant",
+                        "data": {
+                            "type": "F",
+                            "id": "137804",
+                            "name": "Donne Biriyani Mane",
+                            "uuid": "a5b5a1c1-93e3-479f-96b6-2cd490b976f2",
+                            "city": "1",
+                            "area": "Sahakar Nagar",
+                            "totalRatingsString": "100+ ratings",
+                            "cloudinaryImageId": "e3ua2ejzc7hmaflx7yws",
+                            "cuisines": [
+                                "Biryani"
+                            ],
+                            "tags": [],
+                            "costForTwo": 20000,
+                            "costForTwoString": "₹200 FOR TWO",
+                            "deliveryTime": 29,
+                            "minDeliveryTime": 29,
+                            "maxDeliveryTime": 29,
+                            "slaString": "29 MINS",
+                            "lastMileTravel": 4.400000095367432,
+                            "slugs": {
+                                "restaurant": "donne-biriyani-mane-doddabommasandra-vidyaranyapura",
+                                "city": "bangalore"
+                            },
+                            "cityState": "1",
+                            "address": "Howthinarayanapura Garden , Opposite to reliance smart Chamundeshwari Layout, Doddabomsandra, Bengaluru Karnataka.",
+                            "locality": "Chamundeshwari Layout",
+                            "parentId": 5628,
+                            "unserviceable": false,
+                            "veg": false,
+                            "select": false,
+                            "favorite": false,
+                            "tradeCampaignHeaders": [],
+                            "aggregatedDiscountInfo": {
+                                "header": "50% off",
+                                "shortDescriptionList": [
+                                    {
+                                        "meta": "50% off | Use WELCOME50",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "descriptionList": [
+                                    {
+                                        "meta": "50% off up to ₹100 | Use code WELCOME50",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "subHeader": "",
+                                "headerType": 0,
+                                "superFreedel": ""
+                            },
+                            "aggregatedDiscountInfoV2": {
+                                "header": "50% OFF",
+                                "shortDescriptionList": [
+                                    {
+                                        "meta": "Use WELCOME50",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "descriptionList": [
+                                    {
+                                        "meta": "50% off up to ₹100 | Use code WELCOME50",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "subHeader": "",
+                                "headerType": 0,
+                                "superFreedel": ""
+                            },
+                            "chain": [],
+                            "feeDetails": {
+                                "fees": [],
+                                "totalFees": 0,
+                                "message": "",
+                                "title": "",
+                                "amount": "",
+                                "icon": ""
+                            },
+                            "availability": {
+                                "opened": true,
+                                "nextOpenMessage": "",
+                                "nextCloseMessage": ""
+                            },
+                            "longDistanceEnabled": 0,
+                            "rainMode": "NONE",
+                            "thirdPartyAddress": false,
+                            "thirdPartyVendor": "",
+                            "adTrackingID": "",
+                            "badges": {
+                                "imageBased": [],
+                                "textBased": [],
+                                "textExtendedBadges": []
+                            },
+                            "lastMileTravelString": "4.4 kms",
+                            "hasSurge": false,
+                            "sla": {
+                                "restaurantId": "137804",
+                                "deliveryTime": 29,
+                                "minDeliveryTime": 29,
+                                "maxDeliveryTime": 29,
+                                "lastMileTravel": 4.400000095367432,
+                                "lastMileDistance": 0,
+                                "serviceability": "SERVICEABLE",
+                                "rainMode": "NONE",
+                                "longDistance": "NOT_LONG_DISTANCE",
+                                "preferentialService": false,
+                                "iconType": "EMPTY"
+                            },
+                            "promoted": false,
+                            "avgRating": "3.7",
+                            "totalRatings": 100,
+                            "new": false
+                        },
+                        "subtype": "basic"
+                    },
+                    {
+                        "type": "restaurant",
+                        "data": {
+                            "type": "F",
+                            "id": "348223",
+                            "name": "Andhra Gunpowder",
+                            "uuid": "3f829650-64ed-4452-a40d-716238346946",
+                            "city": "1",
+                            "area": "Sahakara Nagar",
+                            "totalRatingsString": "100+ ratings",
+                            "cloudinaryImageId": "z0tanskl23mupgza4djy",
+                            "cuisines": [
+                                "Andhra",
+                                "Biryani",
+                                "South Indian"
+                            ],
+                            "tags": [],
+                            "costForTwo": 35000,
+                            "costForTwoString": "₹350 FOR TWO",
+                            "deliveryTime": 17,
+                            "minDeliveryTime": 17,
+                            "maxDeliveryTime": 17,
+                            "slaString": "17 MINS",
+                            "lastMileTravel": 0.8999999761581421,
+                            "slugs": {
+                                "restaurant": "andhra-gunpowder-sahakar-nagar-sahakar-nagar",
+                                "city": "bangalore"
+                            },
+                            "cityState": "1",
+                            "address": "No. 28/2, Old No. 28/1, KV Arcade, E block, Sahakara Nagar, Bangalore, Hebbala, BBMP North, Karnataka - 560092",
+                            "locality": "E Block",
+                            "parentId": 10496,
+                            "unserviceable": false,
+                            "veg": false,
+                            "select": false,
+                            "favorite": false,
+                            "tradeCampaignHeaders": [],
+                            "aggregatedDiscountInfo": {
+                                "header": "50% off",
+                                "shortDescriptionList": [
+                                    {
+                                        "meta": "50% off | Use WELCOME50",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "descriptionList": [
+                                    {
+                                        "meta": "50% off up to ₹100 | Use code WELCOME50",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "subHeader": "",
+                                "headerType": 0,
+                                "superFreedel": ""
+                            },
+                            "aggregatedDiscountInfoV2": {
+                                "header": "50% OFF",
+                                "shortDescriptionList": [
+                                    {
+                                        "meta": "Use WELCOME50",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "descriptionList": [
+                                    {
+                                        "meta": "50% off up to ₹100 | Use code WELCOME50",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "subHeader": "",
+                                "headerType": 0,
+                                "superFreedel": ""
+                            },
+                            "ribbon": [
+                                {
+                                    "type": "PROMOTED"
+                                }
+                            ],
+                            "chain": [],
+                            "feeDetails": {
+                                "fees": [],
+                                "totalFees": 0,
+                                "message": "",
+                                "title": "",
+                                "amount": "",
+                                "icon": ""
+                            },
+                            "availability": {
+                                "opened": true,
+                                "nextOpenMessage": "",
+                                "nextCloseMessage": ""
+                            },
+                            "longDistanceEnabled": 0,
+                            "rainMode": "NONE",
+                            "thirdPartyAddress": false,
+                            "thirdPartyVendor": "",
+                            "adTrackingID": "cid=5697976~p=19~eid=00000185-8b1b-f359-0e8e-a64e00b81348",
+                            "badges": {
+                                "imageBased": [],
+                                "textBased": [],
+                                "textExtendedBadges": []
+                            },
+                            "lastMileTravelString": "0.8 kms",
+                            "hasSurge": false,
+                            "sla": {
+                                "restaurantId": "348223",
+                                "deliveryTime": 17,
+                                "minDeliveryTime": 17,
+                                "maxDeliveryTime": 17,
+                                "lastMileTravel": 0.8999999761581421,
+                                "lastMileDistance": 0,
+                                "serviceability": "SERVICEABLE",
+                                "rainMode": "NONE",
+                                "longDistance": "NOT_LONG_DISTANCE",
+                                "preferentialService": false,
+                                "iconType": "EMPTY"
+                            },
+                            "promoted": true,
+                            "avgRating": "4.2",
+                            "totalRatings": 100,
+                            "new": false
+                        },
+                        "subtype": "basic"
+                    }
+                ],
+                "totalRestaurants": 1429
+            },
+            "subtype": "personalized"
+        },
+        "parentWidget": false
+    }
+]

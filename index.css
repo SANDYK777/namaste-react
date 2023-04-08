@@ -29,6 +29,8 @@
     border: 1px solid black;
     padding: 10px;
     margin:10px;
+    text-align: center;
+    word-wrap: break-word;
   }
 .card>img{
     width: 100%;
@@ -37,4 +39,16 @@
 {
     display: flex;
     flex-wrap: wrap;
+}
+.search-btn
+{
+    background-color: green;
+}
+
+.shimmercard
+{
+    width: 200px;
+    height: 200px;
+    background-color:lightgrey;
+    margin: 20px;
 }
